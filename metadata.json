@@ -1,0 +1,17 @@
+{
+  "name": "puppet-get_x_params",
+  "version": "0.1.0",
+  "author": "William Leese",
+  "summary": "Provides functions to retrieve a list of defined arguments and their default values for both classes and defined types",
+  "license": "Apache 2.0",
+  "source": "https://github.com/meltwater/puppet-get_x_params",
+  "project_page": "https://github.com/meltwater/puppet-get_x_params",
+  "issues_url": "https://github.com/meltwater/puppet-get_x_params/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_range": ">= 1.0.0"
+    }
+  ]
+}
+
