@@ -6,7 +6,9 @@ Two Puppet functions that retrieve the parameter/argument list of Puppet Classes
 
 ## Usage
 
+```
 parameter_key_val_hash = get_class_params("myclass1")
 parameter_key_val_hash = get_define_params("mydefine1")
+```
 
 Then do something nice like use a Puppet template to create a wrapper script around your software that can accept and override all the parameters that were defined in Puppet.
