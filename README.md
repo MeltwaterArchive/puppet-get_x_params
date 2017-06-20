@@ -1,4 +1,9 @@
-# get_x_params
+[DEPRECATED] get_x_params
+=========================
+
+NOTE: This repository is no longer maintained
+---------------------------------------------
+
 
 ## Overview
 
